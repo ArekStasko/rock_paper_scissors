@@ -1,7 +1,26 @@
-print('Welcome to Rock Paper Scissors game !')
-player_1_choice = input('[ enter Player 1\'s choice ]: ').lower()
-player_2_choice = input('[ enter Player 2\'s choice ]: ').lower()
+import random
 
+print('Welcome to Rock Paper Scissors game !')
+
+print('[ Game Options ]:')
+print('1: Play with computer')
+print('2: Play with other person')
+
+option_choice = input('[Please enter your choice ]:')
+
+print('OPTIONS: [rock, paper, scissors]')
+
+if option_choice == '1':
+
+    choices = ['rock', 'paper', 'scissors']
+    random_num = random.randint(0,2)
+    player_1_choice = input('[ enter Player 1\'s choice ]: ').lower()
+    player_2_choice = choices[random_num]
+
+    print(f'Player2 (Computer) chose {player_2_choice}')
+else:
+    player_1_choice = input('[ enter Player 1\'s choice ]: ').lower()
+    player_2_choice = input('[ enter Player 2\'s choice ]: ').lower()
 
 
 if player_1_choice == player_2_choice:
