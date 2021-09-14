@@ -27,6 +27,7 @@ You will have to enter the number of chosen option
 - Rock ✊
 - Paper ✋
 - Scissors ✌️
+
 Remember to not cheating when your opponent enter the choice !
 
 ### Word of explanation
