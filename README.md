@@ -11,7 +11,7 @@ The same choices mean Draw
 
 ### How to run my - rock, paper, scissors ? 
 
-You can simply clone the code and open it in your terminal.
+You can simply clone the code and run it in your terminal.
 
 You have two options to choose
 1. Play with computer
