@@ -11,11 +11,12 @@ The same choices mean Draw
 
 ### How to run my - rock, paper, scissors ? 
 
-You can simply clone the code and open it in your terminal.
+You can simply clone the code and run it in your terminal.
 
 You have two options to choose
 1. Play with computer
 2. Play with other player
+
 You will have to enter the number of chosen option
 
 **1 Option** You have to choose one of the items from list
@@ -27,6 +28,7 @@ You will have to enter the number of chosen option
 - Rock ✊
 - Paper ✋
 - Scissors ✌️
+
 Remember to not cheating when your opponent enter the choice !
 
 ### Word of explanation
